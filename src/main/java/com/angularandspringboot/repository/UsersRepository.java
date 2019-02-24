@@ -1,11 +1,11 @@
-package com.test.angularandspringboot.repository;
+package com.angularandspringboot.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.test.angularandspringboot.model.User;
+import com.angularandspringboot.model.User;
 
 
 @Repository

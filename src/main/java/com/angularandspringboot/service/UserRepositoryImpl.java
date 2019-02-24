@@ -1,4 +1,4 @@
-package com.test.angularandspringboot.service;
+package com.angularandspringboot.service;
 
 import java.lang.reflect.Method;
 
@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.ReflectionUtils;
 
-import com.test.angularandspringboot.model.Address;
+import com.angularandspringboot.model.Address;
 
 public class UserRepositoryImpl {
 

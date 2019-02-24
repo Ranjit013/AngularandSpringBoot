@@ -1,4 +1,4 @@
-package com.test.angularandspringboot.model;
+package com.angularandspringboot.model;
 
 import java.util.List;
 

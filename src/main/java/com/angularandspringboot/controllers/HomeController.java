@@ -1,4 +1,4 @@
-package com.test.angularandspringboot.controllers;
+package com.angularandspringboot.controllers;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.test.angularandspringboot.model.User;
-import com.test.angularandspringboot.repository.UsersRepository;
+import com.angularandspringboot.model.User;
+import com.angularandspringboot.repository.UsersRepository;
 
 @RestController
 @RequestMapping("/api")

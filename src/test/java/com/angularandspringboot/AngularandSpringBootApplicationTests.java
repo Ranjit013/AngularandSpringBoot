@@ -1,4 +1,4 @@
-package com.test.angularandspringboot;
+package com.angularandspringboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
